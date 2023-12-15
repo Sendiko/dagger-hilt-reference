@@ -53,8 +53,12 @@ this is a quick peek of how i think the project structure should be:
   ExampleApp.kt
 ```
 
+### Implementation
+---
 
-I'm also gonna make the actual implementation, when that's done i'll link it here.
+The usage implementation of Dagger Hilt to inject Room Database can be seen [here.](https://github.com/Sendiko/dagger-hilt-room)
+
+The usage implementation for Retrofit will soon be added here too.
 
 ## with love, Sendiko
 
