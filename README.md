@@ -58,7 +58,7 @@ this is a quick peek of how i think the project structure should be:
 
 The usage implementation of Dagger Hilt to inject Room Database can be seen [here.](https://github.com/Sendiko/dagger-hilt-room)
 
-The usage implementation for Retrofit will soon be added here too.
+The usage implementation of Dagger Hilt to inject Retrofit can be seen [here.](https://github.com/Sendiko/dagger-hilt-retrofit)
 
 ## with love, Sendiko
 
