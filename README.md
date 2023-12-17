@@ -10,7 +10,7 @@ this is not the real case usage, just for reference.
 
 2. Then in app module level ```build.gradle``` add this:
 
-  ```kotlin
+  ```gradle
     plugins {
       id("com.android.application")
       id("org.jetbrains.kotlin.android")
@@ -18,7 +18,7 @@ this is not the real case usage, just for reference.
       id("dagger.hilt.android.plugin")
     }
   ```
-  ```kotlin
+  ```gradle
   dependencies {
     implementation("com.google.dagger:hilt-android:2.48")
     implementation("androidx.hilt:hilt-work:1.1.0")
